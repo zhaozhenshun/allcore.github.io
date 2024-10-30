@@ -1,0 +1,1 @@
+const a={__name:"dialogForm1",setup(t){const{useDialogAPI:n}=window.CoreElement,{onConfirm:e}=n(),s=()=>new Promise(o=>setTimeout(()=>o(),3e3));return e(async o=>{await s()}),(o,r)=>"onConfirm钩子函数 点击ok"}};export{a as _};
